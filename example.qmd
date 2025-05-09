@@ -6,4 +6,6 @@ editor: visual
 
 ## Hello, quarto!
 
-This is a line from mainbranch!
+
+this is a combination of two lines from testbranch and main branch.
+
