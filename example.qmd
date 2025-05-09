@@ -9,3 +9,7 @@ editor: visual
 
 this is a combination of two lines from testbranch and main branch.
 
+```{r}
+plot(cars)
+```
+

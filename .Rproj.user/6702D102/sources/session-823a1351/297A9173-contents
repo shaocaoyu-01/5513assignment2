@@ -5,3 +5,17 @@ editor: visual
 ---
 
 ## Hello, quarto!
+
+
+this is a combination of two lines from testbranch and main branch.
+
+```{r}
+plot(cars)
+```
+
+```{r}
+install.packages("tinytex")
+tinytex::install_tinytex()
+
+```
+
